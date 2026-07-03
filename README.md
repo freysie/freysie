@@ -30,7 +30,7 @@ And my apps:
 - 💬 Ask me anything about Swift, Apple’s frameworks, Ruby, or JavaScript.
 - 🌱 Currently digging into LLM internals and transformer models.
 - 🔭 I’m working on macOS utilities and game experiments.
-- ⚡ Fun fact: Many of my forks are just from me accidentally pressing E while viewing a repository. 🫠
+- ⚡ Fun fact: Many of my forks are just from me accidentally pressing <kbd>E</kbd> while viewing a repository. 🫠
 
 <!--
 hey, you lurker you! (￢‿￢)
