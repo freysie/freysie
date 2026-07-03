@@ -12,7 +12,6 @@ Check out my libraries:
 * https://github.com/freyaalminde/sql-formatting
 * **https://github.com/freyaalminde/watch-date-picker**
 * https://github.com/database-utility/cassandra-kit
-* https://github.com/database-utility/tds-kit
 
 And my apps:
 
@@ -27,16 +26,11 @@ And my apps:
 -->
 
 - Hi there! 🙋🏻‍♀️
-- 📫 How to reach me: Discord or iMessage.
-- 💬 Ask me anything about Ruby, JavaScript, Swift, or Apple’s frameworks.
-- 🌱 I’m currently learning how to scale WebSockets with Vapor.
-- 🤔 I’m looking for help with how to implement Xcode-like error annotations using TextKit.
-- 🔭 I’m currently working on [Kaomoji Palette](https://github.com/freysie/kaomoji-palette) and _a secret project_<!-- and [Database Utility](https://github.com/database-utility/database-utility)-->. 👻
-- ⚡ Fun fact: Many of my forks are just from me accidentally pressing <kbd>E</kbd> while viewing a repository. 🫠
-
-<!--
-- 👯 I’m looking to collaborate on a better tomorrow for all open-source Apple-platform IDE apps.
--->
+- 📫 How to reach me: email or iMessage.
+- 💬 Ask me anything about Swift, Apple’s frameworks, Ruby, or JavaScript.
+- 🌱 Currently digging into LLM internals and transformer models.
+- 🔭 I’m working on macOS utilities and game experiments.
+- ⚡ Fun fact: Many of my forks are just from me accidentally pressing E while viewing a repository. 🫠
 
 <!--
 hey, you lurker you! (￢‿￢)
